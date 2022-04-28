@@ -1,0 +1,16 @@
+h1 {font-style: oblique;}
+p{color: chartreuse;}
+p{background-color: blue;}
+p{font-size: xx-large;}
+h3 {font-style: unset;}
+h3 {color: blueviolet;}
+h1 {color: darkgreen;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+p {font-style: inherit;}
+h1 {text-align: center;}
+h3 {text-align: center;}
+h3 {mix-blend-mode: difference;}
+img {font-style: initial;}
+img {font-size: medium;}
+h3 {padding: 22px;}
