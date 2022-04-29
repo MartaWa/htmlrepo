@@ -14,3 +14,18 @@ h3 {mix-blend-mode: difference;}
 img {font-style: initial;}
 img {font-size: medium;}
 h3 {padding: 22px;}
+.blink_me {
+    animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+h2{
+    color:blueviolet;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
